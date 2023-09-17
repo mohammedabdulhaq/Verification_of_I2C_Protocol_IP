@@ -1,0 +1,10 @@
+`include "sequence_item_0.sv"
+`include "sequence_0.sv"
+`include "sequencer_0.sv"
+`include "driver_0.sv"
+`include "monitor_0.sv"
+`include "agent_0.sv"
+
+`include "scoreboard.sv"
+`include "env.sv"
+`include "test.sv"
